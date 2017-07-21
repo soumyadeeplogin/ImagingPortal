@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+@media (max-width: 1366px) {
+	.btn-hidden-xs{
+	  display: none;
+	 }
+	
+	
+	.hidden-ipad{
+	  display: none;
+	 }
+}
+ 
+.btn-stl{
+	margin: 1px; 
+}
+
+.inputField{
+	margin-top: 8px;
+}
+
+body {
+  overflow-y:auto;
+}
+
+.customButton{
+	margin-top: 8px;
+	margin-left: 3px;
+}
